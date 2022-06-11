@@ -1,2 +1,2 @@
-# loginPHP
-System login with php and MySQL
+# login system with PHP and MySQL
+
